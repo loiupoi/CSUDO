@@ -23,9 +23,9 @@ Unfortunately, the Csudo project has been fully abandoned. Nonetheless, you can 
 
 Installation Instructions:
 
-Download the repository from GitHub.
-Build the project following the instructions in the README file.
-Configure the necessary modules and access rules according to your requirements.
+1) Download the repository from GitHub.
+2) Run "Cargo run" or "Cargo comile"
+3) Add .exe to "PATH" variable
 Contributing to the Project:
 
 Although the project has been abandoned, you can still contribute by creating forks, fixing bugs, or adding new modules. Your enhancements could help other users and inspire the revival of the project.
